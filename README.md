@@ -21,7 +21,7 @@ A classic Snake Game built using Python and the Pygame library. This simple yet 
 
 1. Clone this repository:
    ```bash
-   git clone .git https://github.com/Raghav-3328/Snake-Game
+   git clone .git https://github.com/Raghav-3328/Snake-Game.git
    cd Snake-Game
    
 2. Install the required dependencies:
