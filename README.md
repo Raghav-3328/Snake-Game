@@ -25,13 +25,15 @@ A classic Snake Game built using Python and the Pygame library. This simple yet 
    cd Snake-Game
    
 2. Install the required dependencies:
-pip install pygame
+   ```bash
+   pip install pygame
 
 3. Run the game:
-python "Snake Game.py"
+   ```bash
+   python "Snake Game.py"
 
 
-🎯 Controls
+## 🎯 Controls
 
 W / ↑ – Move Up
 
@@ -43,7 +45,7 @@ D / → – Move Right
 
 ESC – Quit the game
 
-⚙️ Settings
+## ⚙️ Settings
 The project includes a settings.json file with the following configuration:
 
 {
