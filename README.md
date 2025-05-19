@@ -1,4 +1,4 @@
-# 🐍 Snake Eater - Pygame Edition
+# 🐍 Snake Game - Pygame Edition
 
 A classic Snake Game built using Python and the Pygame library. This simple yet engaging project demonstrates the use of 2D graphics, keyboard events, and basic game logic in Python.
 
@@ -21,21 +21,18 @@ A classic Snake Game built using Python and the Pygame library. This simple yet 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/snake-eater.git
-   cd snake-eater
-Install the required dependencies:
-
-bash
-Copy
-Edit
+   git clone .git https://github.com/Raghav-3328/Snake-Game
+   cd Snake-Game
+   
+2. Install the required dependencies:
 pip install pygame
-Run the game:
 
-bash
-Copy
-Edit
+3. Run the game:
 python "Snake Game.py"
+
+
 🎯 Controls
+
 W / ↑ – Move Up
 
 S / ↓ – Move Down
@@ -49,9 +46,6 @@ ESC – Quit the game
 ⚙️ Settings
 The project includes a settings.json file with the following configuration:
 
-json
-Copy
-Edit
 {
     "liveServer.settings.port": 5501
 }
